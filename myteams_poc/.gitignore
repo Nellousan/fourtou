@@ -1,0 +1,4 @@
+target/
+myteams/
+*.so
+vendor/
